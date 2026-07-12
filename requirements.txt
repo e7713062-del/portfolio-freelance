@@ -1,9 +1,5 @@
-streamlit
 pandas
-requests
-beautifulsoup4
-pytz
-tradingview-ta
-streamlit-autorefresh
-xlsxwriter
-openpyxl
+numpy
+scikit-learn
+xgboost
+streamlit
